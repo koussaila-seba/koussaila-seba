@@ -31,12 +31,11 @@
 🔴 **[Capteur ECG](https://github.com/koussaila-seba/projet-ecg-toulouse)**  
 Carte d'acquisition et de filtrage de signaux cardiaques — amplificateur d'instrumentation AD620, filtres Sallen-Key.
 
-🚁 **[Mini-drone STM32 — Plastronique 3D](https://github.com/koussaila-seba/drone-stm32-plastronique)**  
+🚁 **[Mini-drone STM32 — Plastronique 3D](https://github.com/koussaila-seba/mini-drone-stm32)**  
 Conception complète d'une carte de vol STM32F401 avec Bluetooth BLE, capteur inertiel et châssis 3D intégrant l'électronique par technologie IME.
 
-💡 **[Circuits numériques sur FPGA — VHDL](https://github.com/koussaila-seba/fpga-vhdl)**  
+💡 **[Circuits numériques sur FPGA — VHDL](https://github.com/koussaila-seba/vhdl-fpga-cyclone-v)**  
 Conception de circuits combinatoires et séquentiels en VHDL sur carte DE0-CV (Cyclone V), sous Intel Quartus Prime.
-
 ---
 
 ## 🌐 Langues
