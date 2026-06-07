@@ -31,10 +31,10 @@
 🔴 **[Projet Capteur ECG](https://github.com/koussaila-seba/projet-ecg-toulouse)**  
 Carte électronique pour l'acquisition et le filtrage de signaux cardiaques (AD620, Sallen-Key)
 
-🚁 **Mini-drone STM32** *(bientôt en ligne)*  
+🚁 **Mini-drone STM32**   
 Intégration d'un mini-drone autour d'une carte de vol STM32 avec châssis imprimé en 3D
 
-💡 **Circuits VHDL sur FPGA** *(bientôt en ligne)*  
+💡 **Circuits VHDL sur FPGA**   
 Conception de circuits combinatoires et séquentiels sur carte DE0-CV
 
 ---
