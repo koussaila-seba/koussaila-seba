@@ -9,39 +9,39 @@
 
 ## 🛠️ Compétences techniques
 
-### Électronique
+**Électronique**  
 `Conception analogique` `Instrumentation` `Capteurs` `PCB` `Brasage` `Oscilloscope`
 
-### Systèmes embarqués
+**Systèmes embarqués**  
 `STM32` `Arduino` `C` `Python` `Assembleur` `I2C` `SPI` `UART`
 
-### FPGA & Logique numérique
+**FPGA & Logique numérique**  
 `VHDL` `Intel Quartus Prime` `Cyclone V` `DE0-CV`
 
-### Outils & Logiciels
+**Outils & Logiciels**  
 `LTspice` `KiCad` `MATLAB/Simulink` `QElectroTech` `Linux`
 
-### Conception mécanique
-`CAO 3D` `Impression 3D`
+**Conception mécanique**  
+`CAO 3D` `Impression 3D` `Autodesk Fusion 360`
 
 ---
 
 ## 📂 Mes projets académiques
 
-🔴 **[Projet Capteur ECG](https://github.com/koussaila-seba/projet-ecg-toulouse)**  
-Carte électronique pour l'acquisition et le filtrage de signaux cardiaques (AD620, Sallen-Key)
+🔴 **[Capteur ECG](https://github.com/koussaila-seba/projet-ecg-toulouse)**  
+Carte d'acquisition et de filtrage de signaux cardiaques — amplificateur d'instrumentation AD620, filtres Sallen-Key.
 
-🚁 **Mini-drone STM32**   
-Intégration d'un mini-drone autour d'une carte de vol STM32 avec châssis imprimé en 3D
+🚁 **[Mini-drone STM32 — Plastronique 3D](https://github.com/koussaila-seba/drone-stm32-plastronique)**  
+Conception complète d'une carte de vol STM32F401 avec Bluetooth BLE, capteur inertiel et châssis 3D intégrant l'électronique par technologie IME.
 
-💡 **Circuits VHDL sur FPGA**   
-Conception de circuits combinatoires et séquentiels sur carte DE0-CV
+💡 **[Circuits numériques sur FPGA — VHDL](https://github.com/koussaila-seba/fpga-vhdl)**  
+Conception de circuits combinatoires et séquentiels en VHDL sur carte DE0-CV (Cyclone V), sous Intel Quartus Prime.
 
 ---
 
 ## 🌐 Langues
 
-🇫🇷 Français (courant) · 🇬🇧 Anglais (intermédiaire) · 🇩🇿 Kabyle (langue maternelle) · 🇸🇦 Arabe (courant)
+🇫🇷 Français (courant) · 🇬🇧 Anglais (intermédiaire) · Kabyle (langue maternelle) · Arabe (courant)
 
 ---
 
@@ -53,4 +53,4 @@ Conception de circuits combinatoires et séquentiels sur carte DE0-CV
 
 ---
 
-💡 *N'hésitez pas à me contacter pour toute opportunité d'alternance dans les domaines de l'électronique, des systèmes embarqués ou de l'instrumentation !*
+💡 *N'hésitez pas à me contacter pour toute opportunité d'alternance en électronique, systèmes embarqués ou instrumentation !*
